@@ -9,7 +9,7 @@
 ● 다양한 균열에서 U-NET을 통한 균열 감지
 ### 결과
 
-![image](https://user-images.githubusercontent.com/76280200/231085669-9e397945-68cb-4e1e-a6b4-3f38d63ca347.png)
+![image](https://user-images.githubusercontent.com/76280200/231085669-9e397945-68cb-4e1e-a6b4-3f38d63ca347.png)         
 Fig 8의 (a)는 Averaging Blur를 적용한 실제 균열 이미지이며, (b)는 증강하기 전 검출 결과, (c)는 데이터 증강 후 검출 결과이다.    
 데이터 증강한 모델로 훈련한 결과에서 (b) 상단에서 나타난 노이즈가 감소하고 정확도가 향상된 점을 확인하였다.
  
