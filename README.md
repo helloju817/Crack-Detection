@@ -40,7 +40,7 @@
 ### [균열 감지 네트워크]  
 - `Unet.py`
 <br>
-데모 영상은 다음과 같습니다.       
+### [데모영상]     
 <img width="80%" src="https://user-images.githubusercontent.com/76280200/231088772-9f43f79c-72b3-4c49-8371-e8edfa1e67cd.mp4"/>
 
 **학부연구**  
