@@ -41,7 +41,7 @@
 - `Unet.py`
 
 ## 🔍 데모 영상
-<img width="80%" src="https://user-images.githubusercontent.com/76280200/231088772-9f43f79c-72b3-4c49-8371-e8edfa1e67cd.mp4"/><br>
+<img width="80%" src="https://user-images.githubusercontent.com/76280200/231088772-9f43f79c-72b3-4c49-8371-e8edfa1e67cd.mp4"/>        
 [Back to top](#top)
 <br>
 ## 📅 학부연구 
